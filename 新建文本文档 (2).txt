@@ -1,0 +1,5 @@
+1、爬虫就是一个http客户端，通过http协议和远程http服务器通信，获取html页面内容或者其他
+
+headers={
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_0) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.56 Safari/535.11"
+}
